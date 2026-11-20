@@ -1,1 +1,1 @@
-BASE: configuracion inicial
+DESARROLLADOR B: configuracion Oracle
