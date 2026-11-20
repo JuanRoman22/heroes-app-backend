@@ -1,1 +1,1 @@
-BASE: configuracion inicial
+DESARROLLADOR A: configuracion PostgreSQL
