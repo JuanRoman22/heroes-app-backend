@@ -1,1 +1,6 @@
+CONFIGURACION DEL LABORATORIO DBA
+
+DESARROLLADOR A: configuracion PostgreSQL
 DESARROLLADOR B: configuracion Oracle
+
+ESTADO: conflicto resuelto mediante integracion manual.
